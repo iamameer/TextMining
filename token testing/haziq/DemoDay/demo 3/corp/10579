@@ -1,0 +1,62 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Triticum compactum
+
+   [10579.jpg]
+    Authority   Host
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms
+   Common names club wheat
+      Editor
+   Ecocrop code 10579
+
+   Notes
+   BRIEF DESCRIPTION A grass and cereal crop reaching a height of 90-140
+   cm. USES Kernels are a source of low-gluten flour. KILLING T Frost
+   resistant. GROWING PERIOD Annual. COMMON NAMES Club wheat. FURTHER INF
+   Club wheat is native of Europe.
+
+   Sources
+   SOURCES
+   Roecklein J 1987 pp 30 [USE, TEMP, FER]
+   Duke J 1975 pp 30 [TEMP, RAIN, PH]
+   Duke J 1979 pp 96 [TEMP, RAIN, PH]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=10579#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=10579
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=10579
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=10579#Map
+   1. http://www.fao.org/

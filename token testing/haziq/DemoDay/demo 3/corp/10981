@@ -1,0 +1,80 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Zea mays ssp. saccharata
+
+    Authority   Sturt
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms
+   Common names sweet corn, sweet maize, milho doce
+      Editor
+   Ecocrop code 10981
+
+   Notes
+   BRIEF DESCRIPTION
+   A grass and grain crop.
+   USES
+   It is mainly grown for food and fodder. It is eaten as a fresh, frozen
+   or canned vegetable.
+   GROWING PERIOD
+   Can be harvested immature 65-95 days after sowing. (For further
+   information please see under Zea mays s. mays)
+   COMMON NAMES
+   Sweet corn, Maize, Mealies, Corn, Mais Sucre, Maiz Dulce, Zukermais,
+   Suikermais.
+   FURTHER INF
+   Elevations up to 2000 m are considered suitable for growing of
+   cultivars which are adapted to short days and high temperatures. Hot,
+   dry winds may reduce the amount of pollen which are available for
+   fertilization, also very humid conditions are not considered good for
+   maize. Yields are normally 2 cobs per plant, producing 7-15 t/ha. They
+   seeds have a relative high sugar content. (For further information
+   please see under Zea mays s. mays)
+
+   Sources
+   SOURCES
+   Rehm S 1991 pp 19-21 [LIG, TMP, RAIN, PH]
+   Hackett C 1982 pp 61 [FER, PHO, DEP, PH, TEXT, TEMP]
+   Rice R 1990 pp 334-336 [TEXT, DRA, PH, RAIN, TEMP]
+   Skerman P 1990 pp 752-757 [TEMP, KTMP, RAIN, SAL, FER]
+   Onwueme I 1991 pp 157-175 [TEMP, RAIN, DEP, TEXT, DRA, FER, PH]
+   Hartmann T 1981 pp 488-490 [RAIN, TEMP, LIG, PHO, FER, TEXT, PH]
+   Purseglove J 1972 pp 300-334 [USE, TEMP, RAIN, DRA, DEP, PH]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=10981#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=10981
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=10981
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=10981#Map
+   1. http://www.fao.org/

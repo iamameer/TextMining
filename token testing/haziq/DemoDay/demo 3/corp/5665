@@ -1,0 +1,62 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Elymus glaucus
+
+   [5665.jpg]
+    Authority   Buckley
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms
+   Common names blue wildrye
+      Editor
+   Ecocrop code 5665
+
+   Notes
+   BRIEF DESCRIPTION A grass. USES It is often grown as an ornamental, it
+   is a good source of hay, and it also has value as a soil and sand
+   binder. GROWING PERIOD Short-lived perennial. COMMON NAMES Blue
+   wildrye.
+
+   Sources
+   SOURCES (E. glaucus Buckl.)
+   Roecklein J 1987 pp 359 [USE, TEXT]
+   Duke J 1979 pp 95 [PH, RAIN, TEMP]
+   Heath M 1985 pp 185 [LIG, TEXT]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=5665#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=5665
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=5665
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=5665#Map
+   1. http://www.fao.org/

@@ -1,0 +1,69 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Poa annua
+
+   [8765.jpg]
+   Authority L.
+   Family Liliopsida:Commelinidae:Cyperales:Gramineae
+   Synonyms
+   Common names annual bluegrass, low speargrass, six-weeks grass, paturin
+   annuel
+   Editor
+   Ecocrop code 8765
+
+   Notes
+   BRIEF DESCRIPTION A small, light to yellowish green grass with abundant
+   basal leaves. USES It is grown for forage and pasture and used for
+   lawns in shady areas with regular watering. It can also be used for
+   putting greens cut to a height of 7 mm. GROWING PERIOD Annual or
+   biennial grass. (GMAX estimated by the compiler). COMMON NAMES Annual
+   bluegrass, Annual neadow grass, Low speargrass, Dwarf meadow gold,
+   Six-weeks grass, Plains bluegrass. FURTHER INF Annual bluegrass is
+   native of Europe.
+
+   Sources
+   [10]Grassland Index
+   Roecklein J 1987 pp 136 [USE]
+   Duke J 1979 pp 95 [PH, RAIN, TEMP]
+   Breymeyer A 1990 pp 269-271 [SAL, RAIN, DEP, USE]
+   Heath M 1985 pp 196 [DRA, FER, USE]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [11]Disclaimer [transparent.gif]
+   [12]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=8765#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=8765
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=8765
+  10. http://www.fao.org/ag/AGP/AGPC/doc/GBASE/data/pf000456.htm
+  11. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  12. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=8765#Map
+   1. http://www.fao.org/

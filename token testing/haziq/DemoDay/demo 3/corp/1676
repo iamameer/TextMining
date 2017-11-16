@@ -1,0 +1,66 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Phragmites karka
+
+   [1676.jpg]
+    Authority   (Retz.) Trin. ex Steud.
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms   Phragmites communis Trin., Phragmites roxburghii
+   Common names common reed
+      Editor
+   Ecocrop code 1676
+
+   Notes
+   GROWING PERIOD
+   Perennial grass. (GMIN and GMAX estimated by the compiler).
+   COMMON NAMES
+   Pit-pit, Tropical reed.
+   FURTHER INF
+   Pit-pit can be found at elevations from near sea level to 2000 m in New
+   Guinea. It only thrives in rainfall regimes as low as 200 mm when
+   growing in swamps.
+
+   Sources
+   [10]Grassland Index
+   SOURCES (R. karke (Retz.) Steud.)
+   Skerman P 1990 pp 638-639 [DRA, RAIN, TEXT, PH, USE
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [11]Disclaimer [transparent.gif]
+   [12]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1676#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=1676
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=1676
+  10. http://www.fao.org/ag/AGP/AGPC/doc/GBASE/data/pf000309.htm
+  11. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  12. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1676#Map
+   1. http://www.fao.org/

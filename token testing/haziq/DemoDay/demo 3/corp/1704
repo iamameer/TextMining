@@ -1,0 +1,74 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Pinus pseudostrobus
+
+    Authority
+      Family    Pinopsida:Pinaceae
+     Synonyms
+   Common names false white pine
+      Editor
+   Ecocrop code 1704
+
+   Notes
+   BRIEF DESCRIPTION
+   An evergreen tree reaching a height of 25-45 m and a trunk diamter of
+   up to 1.0 m or more.
+   KILLING T
+   Moderately frost resistant.
+   GROWING PERIOD
+   Perennial.
+   COMMON NAMES
+   False Weymounth pine, Pino blanco, Pinabete, Pino ortiguillo.
+   FURTHER INF
+   Scientific synonyms: P. orizabae, P. protuberans. False Weymounth pine
+   can be found central and northern Mexico at elevations from 1300 to
+   3000 m. The latitudinal range of natural occurrence is 14-26°N. The
+   tree usually occur on steep rocky slopes and undulating country. Annual
+   wood production potential is 15-30 m3/ha.
+
+   Sources
+   SOURCES
+   Webb D 1984 pp 228 [RAIN, TEMP, TEXT, PH, DRA, LIG, KTMP, USE]
+   INSPIRE species 145 [RAIN, TEMP, TEXT, PH, DRA, LIG, KTMP, USE]
+   FAO For. Paper 77 pp 426
+   Morandini R 1961 pp 130 [TEMP, RAIN]
+   Serrano C 1978 pp 16-18 [RAIN, TEMP, TEXT, PH, DRA, DEP]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1704#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=1704
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=1704
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1704#Map
+   1. http://www.fao.org/

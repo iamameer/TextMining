@@ -1,0 +1,73 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Pinus oocarpa
+
+   [1702.jpg]
+    Authority
+      Family    Pinopsida:Pinaceae
+     Synonyms
+   Common names
+      Editor
+   Ecocrop code 1702
+
+   Notes
+   BRIEF DESCRIPTION
+   A medium sized to tall evergreen tree reaching a height of 20-40 m. The
+   trunk may reach a diameter of up to 50-60 cm.
+   GROWING PERIOD
+   Perennial. The tree can withstand 3-6 or even 8 months of drought.
+   COMMON NAMES
+   Ocoti pine, Ocote, Ichtaj, Tocj, Chictaj.
+   FURTHER INF
+   Ocoti pine can be found at elevations from 400 to 2400 m. The tree
+   occur naturally within the latitudinal range of 13-28°N. It can adapt
+   to a vide range of sites from plains to valleys and steep slopes. The
+   tree is termite resistant. Annual wood production potential is 10-40
+   m3/ha.
+
+   Sources
+   SOURCES
+   Webb D 1984 pp 221 [RAIN, TEMP, TEXT, PH, DRA, DEP, LIG, KTMP, USE]
+   INSPIRE species 138 [RAIN, TEMP, TEXT, PH, DRA, DEP, LIG, USE]
+   Serrano C 1978 pp 26-27 [RAIN, TEMP, TEXT, FER, PH, DRA, DEP]
+   Morandini R 1961 pp 131-132 [TEMP, RAIN]
+   Zabala N 1990 pp 132-134 [TEMP, RAIN, KTMP, DEP, FER, TEXT, DRA, USE]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1702#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=1702
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=1702
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=1702#Map
+   1. http://www.fao.org/

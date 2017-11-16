@@ -1,0 +1,65 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Cryptotaenia japonica
+
+    Authority   Hassk
+      Family    Magnoliopsida:Rosidae:Apiales:Umbelliferae
+     Synonyms   Cryptotaenia canadensis D.C. var. japonica Makino
+   Common names mitsuba, Japanese honeworts, Japanese parsley
+      Editor
+   Ecocrop code 4999
+
+   Notes
+   DESCRIPTION: It is an evergreen perennial reaching up to 0.5-1 m in
+   height and 0.6 m in width. USE: It is grown for its edible long,
+   slender, edible petioles and leaflets. Also the root and stem is
+   edible. The seed is used as a seasoning. It also has medicinal
+   properties and is widely grown as a perennial leaf garden ornamental
+   and also indoors as a potted plant. GROWING PERIOD: Perennial but
+   usually cultivated as an annual. COMMON NAMES: Mitsuba, Japanese
+   honeworts, Japanese parsley. FURTHER INF: It is found wild in woodland
+   in hills and mountains where it can be found in light to deep shade and
+   along shady edges.
+
+   Sources
+   http://www.hort.purdue.edu/newcrop/proceedings1990/V1-387.html
+   http://www.ibiblio.org/pfaf/cgi-bin/arr_html?Cryptotaenia+japonica
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4999#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=4999
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=4999
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4999#Map
+   1. http://www.fao.org/

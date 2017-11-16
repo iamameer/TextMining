@@ -1,0 +1,65 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Cariniaria pyriformis
+
+    Authority   Miers
+      Family
+     Synonyms
+   Common names Colombian mahogany, Abarco, Jequitiba
+      Editor
+   Ecocrop code 4221
+
+   Notes
+   SOURCES
+   Webb D 1984 pp 118 [RAIN, TEMP, TEXT, PH, DRA, DEP, LIG, USE]
+   Roecklein J 1987 pp 413 [USE]
+   INSPIRE species 35 [RAIN, TEMP, TEXT, PH, DRA, DEP, LIG, USE]
+   GROWING PERIOD
+   Perennial evergreen tree.
+   COMMON NAMES
+   Abarco, Colombian mahogany, Jequitiba.
+   FURTHER INF
+   Abarco can be found at elevations from sea level to 600 m. The tree
+   occur naturally within the latitudinal range of 1-9°N. It can grow
+   40-50 m tall. Annual wood production potential is 10-20 m3/ha.
+
+   Sources
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4221#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=4221
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=4221
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4221#Map
+   1. http://www.fao.org/

@@ -1,0 +1,64 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Calamus peregrinus
+
+    Authority
+      Family    Liliopsida:Arecidae:Arecales:Palmae
+     Synonyms
+   Common names
+      Editor
+   Ecocrop code 4033
+
+   Notes
+   SOURCES
+   Wong K 1985 pp 41-46 [LIG, TEMP, RAIN, TEXT, FER, PH]
+   Basu S 1984 pp 77-89 [LIG, DRA, TEXT]
+   Purseglove J 1972 pp 421-422 [USE]
+   GROWING PERIOD
+   Perennial evergreen climping palm.
+   COMMON NAMES
+   Rattan.
+   FURTHER INF
+   Commomly found in southern Thailand at elevations between 50-500 m. The
+   average relative humidity should be between 60-95%.
+
+   Sources
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4033#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=4033
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=4033
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=4033#Map
+   1. http://www.fao.org/

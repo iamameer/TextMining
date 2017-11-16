@@ -1,0 +1,67 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Eucalyptus st.-johnii
+
+    Authority
+      Family    Magnoliopsida:Rosidae:Myrtales:Myrtaceae
+     Synonyms
+   Common names
+      Editor
+   Ecocrop code 5933
+
+   Notes
+   SOURCES (E. st.-johnii (R.T. Bak.) R.T. Bak.)
+   Webb D 1984 pp 175 [RAIN, TEMP, TEXT, PH, DRA, LIG, USE]
+   INSPIRE species 92 [RAIN, TEMP, TEXT, PH, DRA, LIG, USE]
+   Pryor L 1994 (pers. comm.)
+   GROWING PERIOD
+   Perennial tree. Can be grown with a 6-10 year fuelwood rotation.
+   COMMON NAMES
+   St. John's gum, Eurabbie.
+   FURTHER INF
+   Scientific synonym: E. bicostata. St. John's gum can in tropical and
+   subtropical regions be found at elevations from 100 to 3500 m. The tree
+   occur naturally within the latitudinal range of 31-40°S. The tree can
+   reach a height of 30-40 m. It is windfirm. Annual wood production
+   potential is 10-25 m3/ha.
+
+   Sources
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=5933#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=5933
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=5933
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=5933#Map
+   1. http://www.fao.org/

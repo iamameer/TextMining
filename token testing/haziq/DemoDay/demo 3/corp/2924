@@ -1,0 +1,64 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Agropyron mongolicum
+
+    Authority   Keng
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms
+   Common names Mongolian wheatgrass, agropiro da Mongolia
+      Editor
+   Ecocrop code 2924
+
+   Notes
+   BRIEF DESCRIPTION
+   Bunchgrass.
+   GROWING PERIOD
+   Perennial.
+   COMMON NAMES
+   Agropyron mongolicum.
+   FURTHER INF
+   Agropyron mongolicum can be found in northern China on undulating
+   plains and deserts areas. (pH estimated by the compiler).
+
+   Sources
+   SOURCES
+   Shing T 1992 pp 305 [KTMP, TEMP, RAIN, TEXT, DRA, DEP, SAL, LIG, USE]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=2924#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=2924
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=2924
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=2924#Map
+   1. http://www.fao.org/

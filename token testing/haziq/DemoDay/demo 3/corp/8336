@@ -1,0 +1,80 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Parthenium argentatum
+
+   [8336.jpg]
+    Authority   A. Gray
+      Family    Magnoliopsida:Asteridae:Asterales:Compositae
+     Synonyms
+   Common names guayule
+      Editor
+   Ecocrop code 8336
+
+   Notes
+   SOURCES
+   Roecklein J 1987 pp 264 [USE]
+   Sims D (pers. comm.)
+   Duke J 1975 pp 23 [PH, RAIN, TEMP]
+   Nair P 1980 pp 319-320 [DRA, FER, RAIN, TEMP, KTMP, SAL, USE]
+   Ritchie G 1979 pp 167
+   National AS 1975 pp 149
+   Janick J 1991 pp 338
+   KILLING T
+   Temperatures below 4°C induce semi-dormancy and extended freezing
+   temperatures can cause plant death. In its natural evironment guayule
+   is exposed to temperatures down to -18°C.
+   GROWING PERIOD
+   Perennial shrub, living 3-50 years but has to be uprooted in order to
+   be harvested. Can be brought to economic harvest size in 3 years but
+   under dry-land farming the period is much longer. (GMIN and GMAX
+   estimated by the compiler).
+   COMMON NAMES
+   Guayule.
+   FURTHER INF
+   Guayule can be found in North-central Mexico and the southwestern
+   United States at elevations from 1000 to 2000 m. Annual rainfall over
+   650 mm promotes excessive vegetative growth at the expense of rubber
+   production. The plant can reach a height of up to 60 cm. Yields of up
+   to 1.0 t/ha can be obtained. Mentioned as a useful agroforestry
+   species.
+
+   Sources
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=8336#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=8336
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=8336
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=8336#Map
+   1. http://www.fao.org/

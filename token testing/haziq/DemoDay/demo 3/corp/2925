@@ -1,0 +1,68 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Agropyron repens
+
+   [2925.jpg]
+    Authority   (L.) P. Beauv.
+      Family    Liliopsida:Commelinidae:Cyperales:Gramineae
+     Synonyms   Triticum repens L., Gramen caninum vulgatius Mor.
+   Common names couch grass, quark grass, Graminis rhizoma
+      Editor
+   Ecocrop code 2925
+
+   Notes
+   BRIEF DESCRIPTION A rhizomatic grass. USES Used for grazing and hay.
+   GROWING PERIOD Long-lived perennial. COMMON NAMES Quackgrass,
+   Twitchgrass, Coughgrass, Couch, Twitch. FURTHER INF Quackgrass is
+   native of Europe. It is common in waste areas and along ditchbanks and
+   roadsides. Because of its aggressive habit of growth, it is often a
+   serious weed in cultivated croplands, gardens and orchards.
+
+   Sources
+   [10]Grassland Index - In Ecocrop as synonym Agropyron repens
+   Roecklein J 1987 pp 171 [USE]
+   Duke J 1979 pp 94 [RAIN, TEMP, PH]
+   Duke J 1975 pp 5 [RAIN, TEMP, PH]
+   Heath M 1985 pp 174 [FER, LIMITS, SAL, DRA, USE]
+   Breymeyer A 1990 pp 304 [DRA, TEMP, KTMP, RAIN]
+   Shing T 1992 pp 213 [KTMP, TEMP, RAIN, LIG]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [11]Disclaimer [transparent.gif]
+   [12]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=2925#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=2925
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=2925
+  10. http://www.fao.org/ag/AGP/AGPC/doc/GBASE/data/pf000434.htm
+  11. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  12. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=2925#Map
+   1. http://www.fao.org/

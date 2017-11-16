@@ -1,0 +1,71 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Agathis australis
+
+   [329.jpg]
+    Authority   (Lamb.) Steud.
+      Family    Pinopsida:Araucariaceae
+     Synonyms   Dammara australis Lamb.
+   Common names New Zealand kauri
+      Editor
+   Ecocrop code 329
+
+   Notes
+   BRIEF DESCRIPTION
+   Tall evergreen tree reaching a height of 30-50 m and a girth of up to
+   16 m.
+   GROWING PERIOD
+   Perennial. The tree mature at around 300-400 years and trees up to 1000
+   years old have been recorded.
+   KILLING TEMP
+   Small newly planted kauri seedlings are sensitive to frost. Once
+   established the tree may withstand -17°C.
+   COMMON NAMES
+   Kauri.
+   FURTHER INF
+   Kauri occurs on New Zealand within the latitudinal range 34°30'-38°S.
+   It thrives on wind protected sites and sunny slopes.
+
+   Sources
+   Lloyd R 1980 [USE, FER, TEXT, DEP, DRA, LIG]
+   Barton I 1987 pp 19 [RAIN, TEMP]
+   Whitmore T 1977 pp 3 & 16 [RAIN, TEMP, KTMP, TEXT, FER]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [10]Disclaimer [transparent.gif]
+   [11]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=329#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=329
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=329
+  10. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  11. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=329#Map
+   1. http://www.fao.org/

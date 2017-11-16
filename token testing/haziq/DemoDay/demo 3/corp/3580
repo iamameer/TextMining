@@ -1,0 +1,70 @@
+   [1]Ecocrop
+
+     * [2]Search
+     * Find plant
+     * [3]News
+     * [4]About
+
+   [5]Login
+
+     * You are in:
+     * [6]Home
+     * [7]Find plant
+     * View crop
+
+View crop
+
+   View crop [8]Data sheet [9]EcoPort
+
+Axonopus scoparius
+
+    Authority   (Flugge) Hitchc.
+      Family
+     Synonyms
+   Common names
+      Editor
+   Ecocrop code 3580
+
+   Notes
+   BRIEF DESCRIPTION An erect, bunchgrass with solid and succulent stems
+   up to a height of 1.5-2 m. USES Used for pasture and for silage.
+   GROWING PERIOD Perennial. COMMON NAMES Imperial, Maicillo, Cachi.
+   FURTHER INF Scientific synonym: Paspalum scoparium. Imperial can be
+   found at elevations from 600-1200 m in Panama, from 1200-2000 m in
+   Colombia and 2 500 m in Costa Rica, but grows at 300 m in the eastern
+   Llanos where nights are cool. It grows best in areas of high rainfall,
+   well distributed. It will tolerate drought on deep soils. It prefers
+   well-drained soils, such as sandy and alluvial soils well supplied with
+   organic matter. Grazing is best introduced when the grass is 80-100 cm
+   tall and stopped when it is 20-25 cm. Dry matter yield are usually
+   10-14 t/ha for unfertilized stands, but may be up to 42 t/ha for
+   fertilized stands.
+
+   Sources
+   [10]Grassland Index
+   Skerman P 1990 pp 215-216 [DRA, TEMP, RAIN, DEP, TEXT, FER, PH, USE]
+   Steven R. and Staberg P., 2005 [DRA, RAIN, DEP, USE]
+
+   FAO - Food and Agriculture Organization of the UN - Helping to build a
+   world without hunger
+   Copyright 1993-2007 [transparent.gif] [11]Disclaimer [transparent.gif]
+   [12]Your feedback
+
+References
+
+   1. LYNXIMGMAP:http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=3580#Map
+   2. javascript:load("/ecocrop/srv/en/cropSearchForm")
+   3. javascript:load("/ecocrop/srv/en/news")
+   4. javascript:load("/ecocrop/srv/en/about")
+   5. http://ecocrop.fao.org/ecocrop/srv/en/loginForm
+   6. javascript:load("/ecocrop/srv/en/home")
+   7. javascript:load("/ecocrop/srv/en/cropFindForm")
+   8. http://ecocrop.fao.org/ecocrop/srv/en/dataSheet?id=3580
+   9. http://ecoport.org/perl/ecoport15.pl?searchType=entityDisplay&entityId=3580
+  10. http://www.fao.org/ag/AGP/AGPC/doc/GBASE/data/pf000181.htm
+  11. http://ecocrop.fao.org/ecocrop/srv/en/disclaimer
+  12. mailto:ecocrop@fao.org
+
+[USEMAP]
+http://ecocrop.fao.org/ecocrop/srv/en/cropView?id=3580#Map
+   1. http://www.fao.org/
